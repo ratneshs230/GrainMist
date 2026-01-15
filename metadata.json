@@ -1,0 +1,7 @@
+{
+  "name": "GrainMist - Acoustic Moisture Analyzer",
+  "description": "An advanced agricultural tool that uses acoustic analysis to estimate the moisture content of falling grains through your device's microphone.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
